@@ -19,7 +19,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 *I need your contributions! Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.*
 
 ## Table of Contents 
-
+* [Misc](#misc)
 * [Survey / Review](#survey--review)
 * [Theory / Future](#theory--future)
 * [Optimization / Regularization](#optimization--regularization)
@@ -38,6 +38,8 @@ I believe that there exist *classic* deep learning papers which are worth readin
 * [Distinguished Researchers](#distinguished-researchers)
 
 Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Reading*, and *Classic Papers* sections.
+### Misc
+- CS224d: Deep Learning for Natural Language Processing [[html]](http://cs224d.stanford.edu/index.html) 
 
 ### Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/) 
