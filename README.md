@@ -40,6 +40,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Reading*, and *Classic Papers* sections.
 ### Misc
 - CS224d: Deep Learning for Natural Language Processing [[html]](http://cs224d.stanford.edu/index.html) 
+- OCR [html](https://handong1587.github.io/deep_learning/2015/10/09/ocr.html)
 
 ### Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/) 
